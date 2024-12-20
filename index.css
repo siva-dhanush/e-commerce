@@ -1,0 +1,13 @@
+.container-u {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.products {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10vw 10vh;
+  flex-wrap: wrap;
+}
